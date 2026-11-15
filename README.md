@@ -110,19 +110,17 @@ of late service or demonstrate geographically optimised routes.
 
 ## Repository Structure
 
-``` text
-Service_Operations_Supply_Chain_Project/
+service-operations-supply-chain-analytics/
 ├── Data/
-│   └── Synthetic_Service_Operations_Data.xlsx
+│   └── Service_Operations_Supply_Chain_Synthetic_Data.xlsx
 ├── Excel/
-│   └── Service_Operations_Excel_Analysis.xlsx
+│   └── Service_Operations_Supply_Chain_Data.xlsx
 ├── PowerBI/
 │   └── Service_Operations_Supply_Chain_Analysis.pbix
 ├── Documentation/
 │   ├── Project_Summary.pdf
 │   └── Business_Findings.pdf
 └── README.md
-```
 
 The filenames above describe the intended contents. If your local files
 have different names, keep your actual filenames when uploading.
