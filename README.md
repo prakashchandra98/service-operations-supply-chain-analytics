@@ -109,7 +109,7 @@ of late service or demonstrate geographically optimised routes.
     exceptions.
 
 ## Repository Structure
-
+```
 service-operations-supply-chain-analytics/
 ├── Data/
 │   └── Service_Operations_Supply_Chain_Synthetic_Data.xlsx
@@ -121,10 +121,7 @@ service-operations-supply-chain-analytics/
 │   ├── Project_Summary.pdf
 │   └── Business_Findings.pdf
 └── README.md
-
-The filenames above describe the intended contents. If your local files
-have different names, keep your actual filenames when uploading.
-
+```
 ## How to Explore the Project
 
 1.  Read `Documentation/Project_Summary.pdf` for the project scope and
